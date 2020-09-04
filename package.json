@@ -35,7 +35,7 @@
         "awesome-typescript-loader": "^5.2.1",
         "bootstrap": "^4.3.1",
         "css-loader": "^3.1.0",
-        "node-sass": "^4.12.0",
+        "node-sass": "^4.13.1",
         "nwb": "0.23.x",
         "react": "^16.8.6",
         "react-dom": "^16.8.6",
